@@ -1,6 +1,4 @@
 # Coursework Software Development Theory
-
-## About
 Go project for creating and playing cartoon from a binary file.
 
 ![](preview.gif)
